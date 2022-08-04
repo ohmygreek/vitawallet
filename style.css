@@ -33,7 +33,9 @@ input[type="number"]{
   }
   
   .containercotizador{
-  
+
+  margin-left: auto;
+  margin-right: auto;
   background: #FFFFFF;
   box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.12);
   border-radius: 16px;
